@@ -1,11 +1,15 @@
 ### 👋 你好，我是 zhangjiayang6835-cyber
 开源贡献者，用 AI 自动化完成实际任务。
 ---
+### ✅ 已合并贡献
+| 项目 | PR | 说明 |
+|------|-----|------|
+| [mergeos-bounties/mergeos](https://github.com/mergeos-bounties/mergeos) | [#112](https://github.com/mergeos-bounties/mergeos/pull/112) | feat: add hamburger mobile navigation for responsive homepag 🔀 已合并|
+
 ### 🟢 进行中的 PR
 | 项目 | PR | 说明 |
 |------|-----|------|
 | [UnsafeLabs/Bounty-Hunters](https://github.com/UnsafeLabs/Bounty-Hunters) | [#5453](https://github.com/UnsafeLabs/Bounty-Hunters/pull/5453) | [ T3 Code ] Fix turbo.json missing dependency graph for app  |
-| [mergeos-bounties/mergeos](https://github.com/mergeos-bounties/mergeos) | [#112](https://github.com/mergeos-bounties/mergeos/pull/112) | feat: add hamburger mobile navigation for responsive homepag |
 | [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty) | [#859](https://github.com/SecureBananaLabs/bug-bounty/pull/859) | fix: password policy, async error handling, auth rate limiti |
 | [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty) | [#857](https://github.com/SecureBananaLabs/bug-bounty/pull/857) | fix: sanitize search output and add auth middleware to all r |
 | [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty) | [#853](https://github.com/SecureBananaLabs/bug-bounty/pull/853) | fix: restrict CORS, validate JWT algorithm, add upload file  |
@@ -16,4 +20,4 @@
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#32722](https://github.com/NousResearch/hermes-agent/pull/32722) | fix(search): handle WSL /mnt/ timeout when ripgrep is missin |
 
 ---
-_📊 总计 0 个已合并贡献，10 个进行中 — 自动更新于 2026-05-28 12:00_
+_📊 总计 1 个已合并贡献，9 个进行中 — 自动更新于 2026-05-28 18:00_
