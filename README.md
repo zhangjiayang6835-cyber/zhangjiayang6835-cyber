@@ -1,19 +1,23 @@
 ### 👋 你好，我是 zhangjiayang6835-cyber
 
-开源贡献者 + Solidity 合约开发者。用 AI 自动化完成实际任务。
+开源贡献者 + 全栈开发者。用 AI 自动化完成实际任务。
 
 ---
 
 ### 🛒 我的产品
 
-**Solidity 合约模板合集** — 生产级 ERC20/NFT/Staking/Vesting 合约，含测试和部署教程。
-
-| 方案 | 价格 | 内容 |
+| 产品 | 价格 | 说明 |
 |------|------|------|
-| 🥉 单个合约 | **$9** | 任选 1 个 |
-| 🥈 标准包 | **$29** | 全部 4 个 + 测试 + 部署教程 |
+| 🥉 **Solidity 合约模板合集** | **$9-$29** | ERC20/NFT/Staking/Vesting 合约 + 测试 + 部署教程 |
+| ⚡ **FastAPI 项目模板** | **$15** | JWT 认证 + SQLAlchemy + 13 项测试 + Docker + 可直接部署 |
 
-👉 **[购买 → buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)**
+#### Solidity 合约模板合集
+生产级合约，Foundry 测试，含部署教程。
+👉 **[购买 $29 →](https://buymeacoffee.com/zhangjiayang)**
+
+#### FastAPI 项目模板
+带 JWT 认证、数据库、13 个自动化测试、Docker 配置，拿来即用。
+👉 **[购买 $15 →](https://buymeacoffee.com/zhangjiayang)**
 
 ---
 
@@ -31,4 +35,4 @@
 
 ---
 
-_📊 总计 1 个已合并贡献 · 合约模板 $9-$29_
+_📊 1 合并贡献 · 产品 $9-$29 · [buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)_
