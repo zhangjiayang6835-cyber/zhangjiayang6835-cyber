@@ -4,16 +4,20 @@
 
 ---
 
-### 🛒 产品目录
+### 🛒 全部产品目录
 
-| # | 产品 | 价格 | 适合谁 |
-|---|------|------|--------|
-| 1 | **Solidity 合约模板合集** | **$29** | Web3/区块链开发者 |
-| 2 | **FastAPI 项目模板** | **$15** | Python 后端开发者 |
-| 3 | **React + Vite 前端模板** | **$12** | 前端/全栈开发者 |
-| 4 | **Docker Compose 开发环境集** | **$12** | DevOps/全栈开发者 |
-| 5 | **Python CLI 工具模板** | **$9** | Python 开发者 |
-| 6 | **Playwright E2E 测试模式** | **$9** | QA/自动化工程师 |
+| # | 产品 | 价格 | 领域 |
+|---|------|------|------|
+| 1 | **Solidity 合约模板合集** | **$29** | 🪙 区块链/Web3 |
+| 2 | **FastAPI 项目模板** | **$15** | 🐍 Python 后端 |
+| 3 | **React + Vite 前端模板** | **$12** | 🎨 前端开发 |
+| 4 | **Docker Compose 环境集** | **$12** | 🐳 DevOps |
+| 5 | **Data Science 入门包** | **$12** | 🤖 AI/数据科学 |
+| 6 | **Serverless 模板 (AWS)** | **$10** | ☁️ 云开发 |
+| 7 | **Ansible DevOps 剧本** | **$9** | 🔧 运维自动化 |
+| 8 | **Python CLI 工具模板** | **$9** | 🛠️ Python 开发 |
+| 9 | **Playwright E2E 测试模式** | **$9** | ✅ 测试/QA |
+| 10 | **SQL 查询优化模板** | **$8** | 🗄️ 数据库 |
 
 👉 **[全部购买 → buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)**
 
@@ -33,4 +37,4 @@
 
 ---
 
-_📊 1 合并贡献 · 6 个产品 $9-$29 · [buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)_
+_📊 1 合并贡献 · 10 个产品 $8-$29 · [buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)_
