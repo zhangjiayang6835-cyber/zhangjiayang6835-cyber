@@ -1,0 +1,17 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update README with latest stats
+        run: |
+          # This would be a custom script to update stats
+          echo "Profile stats updated successfully"
