@@ -8,6 +8,7 @@
 
 | 项目 | PR | 说明 |
 |------|-----|------|
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#119400](https://github.com/firstcontributions/first-contributions/pull/119400) | 加入 54k⭐ 开源项目 Contributors 列表 🔀 已合并 |
 | [mergeos-bounties/mergeos](https://github.com/mergeos-bounties/mergeos) | [#112](https://github.com/mergeos-bounties/mergeos/pull/112) | 汉堡菜单移动端导航 🔀 已合并 |
 
 ---
@@ -18,4 +19,4 @@
 
 ---
 
-_📊 1 合并贡献 · [buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)_
+_📊 2 合并贡献 · [buymeacoffee.com/zhangjiayang](https://buymeacoffee.com/zhangjiayang)_
