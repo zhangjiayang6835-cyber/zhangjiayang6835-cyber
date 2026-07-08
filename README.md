@@ -13,7 +13,6 @@ Full-stack developer & open-source contributor. Building AI automation tools.
 |---------|-----|-------------|
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [#119400](https://github.com/firstcontributions/first-contributions/pull/119400) | Joined 54k⭐ open-source Contributors list / 加入 54k⭐ 开源项目贡献者列表 🔀 |
 | [mergeos-bounties/mergeos](https://github.com/mergeos-bounties/mergeos) | [#112](https://github.com/mergeos-bounties/mergeos/pull/112) | Hamburger menu mobile navigation / 汉堡菜单移动端导航 🔀 |
-| [ai-research](https://github.com/zhangjiayang6835-cyber/ai-research) | 批量 PR 处理 / Batch PR processing | Batch processed 170+ PRs: merged 140+ security fixes, closed 11 invalid / 批量处理 170 个 PR：合并 140+ 安全修复、关闭 11 个无效提交 🔀 |
 
 ### 📦 Featured Projects / 主要项目
 
