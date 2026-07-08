@@ -18,10 +18,10 @@ Full-stack developer & open-source contributor. Building AI automation tools.
 
 | Project / 项目 | Description / 说明 |
 |---------|-------------|
-| [ai-research](https://github.com/zhangjiayang6835-cyber/ai-research) | AI Security Research Platform: honeypot + eval engine + training gym / AI 安全研究平台：蜜罐系统 + 评测引擎 + 训练场 |
-| [honeycode-honeypot](https://github.com/zhangjiayang6835-cyber/honeycode-honeypot) | Task publishing and submission capture for AI security training / 任务发布与提交捕获平台 |
-| [ai-training-gym](https://github.com/zhangjiayang6835-cyber/ai-training-gym) | Structured training & evaluation platform with 2500+ security samples / 结构化训练与评测平台，2500+ 安全样本 |
-| [eval-engine](https://github.com/zhangjiayang6835-cyber/eval-engine) | Docker sandbox evaluation engine with cheat detection / Docker 沙箱评测引擎，含作弊检测 |
+| [ai-research](https://github.com/zhangjiayang6835-cyber/ai-research) | AI Security Research Platform / AI 安全研究平台
+  · honeycode-honeypot — Task publishing & submission capture / 任务发布与提交捕获
+  · ai-training-gym — Structured training & evaluation with 2500+ security samples / 结构化训练与评测平台
+  · eval-engine — Docker sandbox evaluation with cheat detection / Docker 沙箱评测引擎 |
 | [bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza) | Real bug bounty aggregation and distribution platform / 真实赏金任务聚合与分发平台 |
 
 ---
